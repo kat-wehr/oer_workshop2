@@ -1,0 +1,42 @@
+[
+  {
+    "id": "outline-item-0",
+    "indent": 0,
+    "order": 0,
+    "parent": null,
+    "title": "Home",
+    "location": "content/Home.html"
+  },
+  {
+    "id": "outline-item-2",
+    "indent": 0,
+    "order": 1,
+    "parent": null,
+    "title": "Intro",
+    "location": "content/Intro.html"
+  },
+  {
+    "id": "outline-item-3",
+    "indent": 0,
+    "order": 2,
+    "parent": null,
+    "title": "Lesson 1",
+    "location": "content/Lesson 1.html"
+  },
+  {
+    "id": "outline-item-4",
+    "indent": 0,
+    "order": 3,
+    "parent": null,
+    "title": "Lesson 2",
+    "location": "content/Lesson 2.html"
+  },
+  {
+    "id": "outline-item-5",
+    "indent": 0,
+    "order": 4,
+    "parent": null,
+    "title": "Assignment",
+    "location": "content/Assignment.html"
+  }
+]
